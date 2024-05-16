@@ -1,2 +1,1 @@
-# ChrisP19.github.io
-My website
+Visit the [site](https://chrisp19.github.io/)!
