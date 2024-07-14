@@ -1,4 +1,4 @@
-Visit the [site](https://chrisp19.github.io/)!
+Visit the [site](https://chrisp19.github.io/website)!
 
 Used: https://github.com/gitname/react-gh-pages
 
